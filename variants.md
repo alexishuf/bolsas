@@ -47,7 +47,7 @@ O aluno cujo edital pelo qual foi aceito previa ingresso em um certo período (e
 2. Aluno é inserido como se tivesse solicitado bolsa **durante** a seleção <br>
    [Diff na redação dos discentes](https://github.com/alexishuf/bolsas/compare/tard_dentro_dentro?diff=split) <br>
    ![exempplo](imgs/tardio2-ingresso.png)
-3. Aluno é inserido **após** todos os alunos ingressantes no mesmo período <br>
+3. Aluno é inserido **no final da fila** <br>
    [Proposta dos discentes](https://github.com/alexishuf/bolsas/blob/master/redacao.txt) <br>
    ![exempplo](imgs/tardio2-apos_ingresso.png)
 4. Outro: _____
